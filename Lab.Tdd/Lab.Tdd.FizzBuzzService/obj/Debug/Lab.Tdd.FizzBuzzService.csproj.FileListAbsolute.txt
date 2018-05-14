@@ -1,0 +1,4 @@
+C:\Labs\Lab.Tdd\Lab.Tdd.FizzBuzzService\bin\Debug\Lab.Tdd.FizzBuzzService.dll
+C:\Labs\Lab.Tdd\Lab.Tdd.FizzBuzzService\bin\Debug\Lab.Tdd.FizzBuzzService.pdb
+C:\Labs\Lab.Tdd\Lab.Tdd.FizzBuzzService\obj\Debug\Lab.Tdd.FizzBuzzService.dll
+C:\Labs\Lab.Tdd\Lab.Tdd.FizzBuzzService\obj\Debug\Lab.Tdd.FizzBuzzService.pdb
